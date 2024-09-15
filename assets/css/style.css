@@ -372,6 +372,7 @@ section {
   display: block;
   background: none;
   border-radius: 0;
+  text-align: center;
 }
 .skills .progress .skill {
   padding: 0;
